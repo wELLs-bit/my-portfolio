@@ -1,16 +1,73 @@
-# React + Vite
+# WELLS — Graphic Design Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Your Idea, My Craft.**
 
-Currently, two official plugins are available:
+A modern and responsive graphic design portfolio website built with React to showcase creative work, design skills, services, and selected projects.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The portfolio is designed to provide potential clients with a clear and engaging way to explore my work and get in touch for projects and collaborations.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎨 Modern dark-themed portfolio design
+- 📱 Fully responsive design for mobile, tablet, and desktop
+- 🖼️ Portfolio project showcase
+- 🔎 Portfolio category filtering
+- 🎠 Interactive project carousels
+- 🖼️ Project preview modal
+- 📸 Multiple images for individual projects
+- 💬 Client testimonials section
+- 📩 Functional contact form
+- 🔔 Custom form submission notifications
+- 📧 Email notification for contact form submissions
+- 📱 Responsive mobile navigation
+- ✨ Smooth animations and hover effects
+- ⚡ Fast and lightweight React application
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+
+- React.js
+- JavaScript
+- HTML5
+- Tailwind CSS
+- CSS3
+
+### Development Tools
+
+- Vite
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## 📂 Project Structure
+
+```text
+WELLS-PORTFOLIO/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   │   └── images/
+│   │
+│   ├── components/
+│   │
+│   ├── pages/
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── tailwind.config.js
+├── index.html
+└── README.md
