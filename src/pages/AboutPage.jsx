@@ -96,9 +96,9 @@ export default function AboutPage() {
             </h2>
 
             <p className="mt-5 max-w-md text-sm leading-7 text-white/68">
-              Am a multidisciplinary creative designer focused on building
-              bold visual identities, premium flyers, meaningful brand systems,
-              and digital experiences that speak with clarity.
+              Am a multidisciplinary creative designer focused on building bold
+              visual identities, premium flyers, meaningful brand systems, and
+              digital experiences that speak with clarity.
             </p>
 
             <a
@@ -115,11 +115,11 @@ export default function AboutPage() {
             initial={{ opacity: 0, y: 34, scale: 0.96 }}
             animate={{ opacity: 1, y: 0, scale: 1 }}
             transition={{ delay: 0.12, duration: 0.85 }}
-            className="relative z-10 mx-auto hidden items-center justify-center lg:flex"
+            className="relative z-10 mx-auto flex items-center justify-center py-3 lg:py-0"
           >
-            <div className="absolute h-[23rem] w-[23rem] rounded-full bg-red-600/25 blur-[80px]" />
+            <div className="absolute h-[15rem] w-[15rem] rounded-full bg-red-600/25 blur-[70px] sm:h-[19rem] sm:w-[19rem] lg:h-[23rem] lg:w-[23rem]" />
 
-            <div className="relative grid h-[22rem] w-[22rem] place-items-center rounded-full border border-white/20 bg-white/10 p-3 shadow-[0_34px_120px_rgba(0,0,0,0.45)] backdrop-blur-xl xl:h-[25rem] xl:w-[25rem]">
+            <div className="relative grid h-[14rem] w-[14rem] place-items-center rounded-full border border-white/20 bg-white/10 p-2.5 shadow-[0_28px_90px_rgba(0,0,0,0.4)] backdrop-blur-xl sm:h-[18rem] sm:w-[18rem] sm:p-3 lg:h-[22rem] lg:w-[22rem] xl:h-[25rem] xl:w-[25rem]">
               <div className="h-full w-full overflow-hidden rounded-full border border-red-500/45 bg-[#08080b] p-2">
                 <img
                   src={aboutImage}
