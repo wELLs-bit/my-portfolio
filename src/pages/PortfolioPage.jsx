@@ -16,10 +16,10 @@ const imageBank = {
     "https://res.cloudinary.com/sseqke3v/image/upload/v1787234335/DOMINION_CITY_Ablaze_flyer_1.png",
     "https://res.cloudinary.com/sseqke3v/image/upload/v1787323273/RELATIONSHIP_HSPCC.png",
     "https://res.cloudinary.com/sseqke3v/image/upload/v1787234100/HSPCC_countdown_10days.png",
-    "https://res.cloudinary.com/sseqke3v/image/upload/v1787234171/HSPCC_thank_you_for_coming_2.png",
+    "https://res.cloudinary.com/sseqke3v/image/upload/v1794983883/HSPCC_purpose.png",
   ],
   brand: [
-    "https://res.cloudinary.com/sseqke3v/image/upload/v1787234993/idify_identity_launch_revealed.png",
+    "https://res.cloudinary.com/sseqke3v/image/upload/v1794905647/idify_TGIF.png",
     "https://res.cloudinary.com/sseqke3v/image/upload/v1787234685/idify_psycology_1.png",
     "https://res.cloudinary.com/sseqke3v/image/upload/v1787234810/idify_monday.png",
     "https://res.cloudinary.com/sseqke3v/image/upload/v1787234737/idify_monday_post.png",
@@ -94,7 +94,7 @@ const portfolioSections = [
         "ABLAZE",
         "RELATIONSHIP",
         "COUNTDOWN FLYER",
-        "THANK YOU FLYER",
+        "PURPOSE POSTER FLYER",
       ],
       "Church Flyer",
       "Church Media Flyer",
@@ -107,7 +107,7 @@ const portfolioSections = [
     title: "Identity systems with strong marks, color, type, and visual rules.",
     works: createWorks(
       [
-        "IDIFY LAUNCHDAY",
+        "IDIFY TGIF",
         "IDIFY POSTER FLYER",
         "MONDAY POSTER FLYER",
         "MONDAY POSTER FLYER",
